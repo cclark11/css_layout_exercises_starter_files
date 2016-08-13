@@ -1,0 +1,35 @@
+.main-content{
+	width: 800px;
+	margin:auto;
+	font-size:0;
+	margin-top:20px;
+	}
+.box-50{
+	height: 200px;
+	width:50%;
+	border:black solid 1px;
+	display:inline-block;
+	font-size:16px;
+	text-align:center;
+}
+.box-33{
+	height: 300px;
+	width:33.33%;
+	border:black solid 1px;
+	display:inline-block;
+}
+.green{
+	background-color:green;
+}
+.blue{
+	background-color:blue;
+}
+.grey{
+	background-color:grey;
+}
+.black{
+	background-color:black;
+}
+.yellow{
+	background-color:yellow;
+}
